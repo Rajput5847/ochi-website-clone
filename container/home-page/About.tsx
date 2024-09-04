@@ -13,18 +13,18 @@ export default function About() {
 		<section className="w-full bg-about padding-y rounded-t-[20px] z-20 relative mt-[-15px]">
 			<div className="pl-[50px] sm:px-[20px] xm:px-[20px]">
 				<h2 className="sub-heading font-medium font-NeueMontreal text-secondry">
-					Ochi is a strategic partner for fast-grow­ing tech
-					<br className="sm:hidden xm:hidden" /> businesses that need to&nbsp;
+					You are really a true mentor.
+					<br className="sm:hidden xm:hidden" /> You are a real life &nbsp;
 					<span className="sub-heading font-medium font-NeueMontreal link-flash cursor-pointer">
-						raise funds,
+						hero,
 					</span>
-					&nbsp;sell prod­ucts, <br className="sm:hidden xm:hidden" />
+					&nbsp; mentor, <br className="sm:hidden xm:hidden" />
 					<span className="sub-heading font-medium font-NeueMontreal link-flash cursor-pointer">
-						ex­plain com­plex ideas,
+						legend,
 					</span>
 					&nbsp;and&nbsp;
 					<span className="sub-heading font-medium font-NeueMontreal link-flash cursor-pointer">
-						hire great peo­ple.
+						an idol .
 					</span>
 				</h2>
 			</div>
